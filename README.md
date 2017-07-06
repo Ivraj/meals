@@ -5,6 +5,15 @@ many engineers.
 This repo is a place to organize meals for the residential interns working at
 [Tagup](https://www.tagup.io).  
 
+## Installation
+To install the calcurse calendar app just run ```sudo apt-get calcurse``` on
+Debian, or ```brew install calcurse``` on OS X. 
+
+## Opening the Calendar
+After you've installed ```Calcurse``` (see Installation above), you can open
+our calendar by running ```calcurse -D .calcurse/```. Make sure you're in the
+meals directory, or calcurse will not source the correct calendar. 
+
 ## Procedure
 At the beginning of every week, the interns will meet up to discuss what food
 to prepare for the following week. Based off of this they'll create a shopping
