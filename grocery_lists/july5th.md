@@ -1,10 +1,10 @@
 # Grocery List
 
-## Lunches
-
 Basics:
-Olive Oil
-Eggs (2 boxes)
+- Olive Oil
+- Eggs (2 boxes)
+
+## Lunches
 
 ### Monday
 - ciabatta bread
@@ -96,5 +96,3 @@ Eggs (2 boxes)
 - nice jams
 - Sliced Bread
 - slices of salami
-- 
-
