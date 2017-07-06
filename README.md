@@ -6,7 +6,7 @@ This repo is a place to organize meals for the residential interns working at
 [Tagup](https://www.tagup.io).  
 
 ## Installation
-To install the calcurse calendar app just run ```sudo apt-get calcurse``` on
+To install the calcurse calendar app just run ```sudo apt-get install calcurse``` on
 Debian, or ```brew install calcurse``` on OS X. 
 
 ## Opening the Calendar
